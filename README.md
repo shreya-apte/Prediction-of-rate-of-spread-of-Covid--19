@@ -1,0 +1,2 @@
+# Prediction-of-rate-of-spread-of-Covid--19
+• Performed feature selection using subset selection and shrinkage methods like Lasso and Ridge regression to identify the most contributing features impacting the spread rate of Covid-19 from the 66 predictors defining mobility changes in places of activity • Trained multiple classification models using Logistic regression, ridge regression, random forests and gradient boosting; Achieved a test mean square error of 0.00373547855 by hyperparameter tuning of the Xtreme gradient boosting model.
